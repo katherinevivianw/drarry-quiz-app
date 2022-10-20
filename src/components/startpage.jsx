@@ -1,5 +1,6 @@
 import React from 'react';
-import Card from './card'
+import Card from './card';
+import './startpage.css';
 
 const StartPage = () => {
     return (
